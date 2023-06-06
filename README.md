@@ -9,7 +9,7 @@
 ## ¿Quien soy?
 
 🌱 Me presento nuevamente mi nombre es Carlos Andres Mosquera Barona actualmente soy estudiante en Henry cómo fullstack developer 
-tengo 21 años y soy una pasionado por la tecnologia y el aprendizaje.
+    tengo 21 años y soy una pasionado por la tecnologia y el aprendizaje.
 
 Actualmente me encuentro realizando proyectos para adquirir más experiencia inclinandome a la inteligencia artificial y a la cyber-seguridad.
 Desde que tuve mi primer encuentro con el código, me di cuenta de que la programación era mucho más que solo escribir líneas de texto en una pantalla; era una puerta de entrada a la creatividad, la resolución de problemas y la construcción de soluciones innovadoras.
