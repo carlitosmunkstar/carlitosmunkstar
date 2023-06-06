@@ -3,8 +3,10 @@
 # <div align="center"> Hello world </div>   
   
 
-### <div align="center">Bienvenido! soy Carlos Mosquera desarrollador de paginas web</div>  
-  
+### <div align="center">Soy Carlos Mosquera </div>
+### <div align="center">Diseñador de paginas web</div>
+## <div align="center">&</div>
+### <div align="center">Fullstack Developer</div>
 
 - 🔭  
   
