@@ -16,6 +16,9 @@ Desde que tuve mi primer encuentro con el código, me di cuenta de que la progra
 
 <br/>  
 
+## ¿Qué hago?
+Bueno en el momento me encuentro realizando proyectos propios y personales con el fin de adquirir nuevas habilidades con otros lenguajes o el uso de frameworks y/o tecnologias 
+que me permitan apoyar y ayudar a futuras emprezas o comunidades en el desarrollo de las mismas. siempre me enfrazcado en buscar solucion a nuevos problemas.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
