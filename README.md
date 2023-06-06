@@ -2,7 +2,7 @@
 
 # <div align="center"> Hello world </div>   
   
-<h1 style="text-align: center; font-size: 36px;">¡Título Grande!</h1>
+<h1 style="text-align: center; font-size: 36px;">Soy Carlos Mosquera</h1>
 
 ##### <div align="center">Diseñador de paginas web</div>
 ### <div align="center">&</div>
