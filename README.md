@@ -3,7 +3,7 @@
 # <div align="center"> Hello world </div>   
   
 
-<div size="6" align="center">Soy Carlos Mosquera </div>
+<font size="6">Soy Carlos Mosquera</font>
 ##### <div align="center">Diseñador de paginas web</div>
 ### <div align="center">&</div>
 ##### <div align="center">Fullstack Developer</div>
