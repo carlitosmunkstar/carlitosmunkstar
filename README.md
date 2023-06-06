@@ -4,9 +4,9 @@
   
 
 ### <div align="center">Soy Carlos Mosquera </div>
-### <div align="center">Diseñador de paginas web</div>
-## <div align="center">&</div>
-### <div align="center">Fullstack Developer</div>
+##### <div align="center">Diseñador de paginas web</div>
+### <div align="center">&</div>
+##### <div align="center">Fullstack Developer</div>
 
 - 🔭  
   
