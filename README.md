@@ -88,7 +88,7 @@ que me permitan apoyar y ayudar a futuras emprezas o comunidades en el desarroll
 
 ## Contactame por aquí!
 
-<div align="center"><img height="20" src="https://img.freepik.com/iconos-gratis/telefono_318-146985.jpg" />tel: +57-318-245-2270 o +57-311-776-6999</div>  
+<div align="center"><img height="20" src="https://img.freepik.com/iconos-gratis/telefono_318-146985.jpg" />  +57-318-245-2270 o +57-311-776-6999</div>  
 
 <br/>  
 <div align="center"><img height="20" src="https://cdn-icons-png.flaticon.com/512/263/263115.png" />calle 9c #53 a sur 100 Jamundi/Valle Del Cauca</div>  
