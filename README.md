@@ -87,30 +87,20 @@ que me permitan apoyar y ayudar a futuras emprezas o comunidades en el desarroll
 
 
 ## Contactame por aquí!
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
+<div align="center"><img src="https://img.freepik.com/iconos-gratis/telefono_318-146985.jpg" />tel: +57-318-245-2270 o +57-311-776-6999</div>  
 
 <br/>  
-
-<div align="center"><img src="" />tel: +57-318-245-2270 o +57-311-776-6999</div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+<div align="center"><img src="https://cdn-icons-png.flaticon.com/512/263/263115.png" />calle 9c #53 a sur 100 Jamundi/Valle Del Cauca</div>  
   
+<br/>
+<div align="center"><img src="https://img.freepik.com/iconos-gratis/correo-electronico_318-859700.jpg" />camobaan@gmail.com</div>  
 
-<br/>  
 
 
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
+       
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Cualquier duda o algo a aportar a este perfil espero tu mensaje</div>
