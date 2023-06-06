@@ -1,6 +1,6 @@
 
 
-# <div aling="center"> Hello world </div>   
+# <div align="center"> Hello world </div>   
   
 
 ### <div align="center">Bienvenido! soy Carlos Mosquera desarrollador de paginas web</div>  
