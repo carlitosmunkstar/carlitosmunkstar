@@ -1,9 +1,6 @@
 
 
-### Hello world  
-<div align="center">
-<img src="https://www.hostingplus.com.co/wp-content/uploads/2020/03/lenguaje-programacion.jpg" align="center" style="width: 100%" />
-</div>  
+### Hello world   
   
 
 ### <div align="center">Bienvenido! soy Carlos Mosquera desarrollador de paginas web</div>  
