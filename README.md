@@ -1,12 +1,12 @@
 
 
-# <div align="center"> Hello world </div>   
+# <div align="center"> -Hello world! </div>   
   
 <div align="center"><h1>Soy Carlos Mosquera</h1></div>
 
 ### <div align="center">Fullstack Developer</div>
 
-- 🔭  
+## ¿Quien soy?
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
