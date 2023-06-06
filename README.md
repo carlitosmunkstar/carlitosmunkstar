@@ -7,6 +7,11 @@
 ### <div align="center">Fullstack Developer</div>
 
 ## ¿Quien soy?
+
+Me presento nuevamente mi nombre es Carlos Andres Mosquera Barona actualmente soy estudiante en Henry cómo fullstack developer 
+tengo 21 años y soy una pasionado por la tecnologia y el aprendizaje.
+
+actualmente me encuentro realizando proyectos para adquirir más experiencia inclinandome a la inteligencia artificial y a la cyber-seguridad
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
