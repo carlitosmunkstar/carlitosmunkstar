@@ -66,7 +66,7 @@ que me permitan apoyar y ayudar a futuras emprezas o comunidades en el desarroll
 <br/>  
 
 
-## Connect with me  
+## Conecta conmigo  
 <div align="center">
 <a href="https://github.com/carlitosmunkstar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -86,14 +86,14 @@ que me permitan apoyar y ayudar a futuras emprezas o comunidades en el desarroll
 <br/>  
 
 
-## Recent Blog Posts  
+## Contactame por aquí!
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="" />tel: +57-318-245-2270 o +57-311-776-6999</div>  
 
 <br/>  
 
@@ -104,8 +104,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
